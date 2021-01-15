@@ -1,5 +1,4 @@
 # Cricket-Management
-# Cricket-Management
 The project on Cricket Management aims at creating a program which helps to add, delete,modify,searching and displaying a record.
 The functions that program can perform are:
 a) Creating a Record
